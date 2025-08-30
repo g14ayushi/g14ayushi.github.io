@@ -1,7 +1,7 @@
 # Ayushi Codes
 
 ## About Me
-- I am Ayushi, software developer from India.
+- I am Ayushi Gupta, software developer from India.
 
   
 ## License
