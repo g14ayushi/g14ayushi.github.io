@@ -5,7 +5,7 @@ draft = false
 comments = false
 +++
 
-## Hi👋 I am Rajul
+<!-- ## Hi👋 I am Rajul
 ### aka (@rajuljha)
 
 ### Backend Developer | Open Source Enthusiast 
@@ -33,4 +33,8 @@ Thank you for visiting my page! If you share similar interests or have exciting 
 
 ---
 
-[Contact Me](mailto:rajuljha49@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rajuljha)
+[Contact Me](mailto:rajuljha49@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rajuljha) -->
+
+
+## 👋 Hi, I'm Ayushi Gupta  
+Computer Engineering student at Aligarh Muslim University, passionate about AI research, backend systems, and robotics.  

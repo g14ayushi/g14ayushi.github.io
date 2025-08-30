@@ -5,6 +5,6 @@ draft = false
 comments = false
 +++
 
-- [Email](mailto:rajuljha49@gmail.com)
-- [Linkedin](https://linkedin.com/in/rajuljha)
-- [Github](https://github.com/rajuljha)
+- [Email](mailto:ayushi.gupta.9370@gmail.com)
+- [Linkedin](https://linkedin.com/in/ayushigupta9370)
+- [Github](https://github.com/g14ayushi)

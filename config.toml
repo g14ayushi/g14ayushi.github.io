@@ -1,8 +1,8 @@
-baseURL = 'https://rajuljha.github.io'
+baseURL = 'https://g14ayushi.github.io'
 languageCode = 'en-us'
-title = 'The Knight Blog'
+title = 'Ayushi Codes'
 theme = "paper"
-author = 'Rajul Jha'
+author = 'Ayushi Gupta'
 paginate = 3
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
@@ -10,24 +10,23 @@ ignoreErrors = ["error-remote-getjson"]
 
 
 [params]
-color = 'linen'
+color = 'wheat'
 
-twitter = 'rajul_jha'
-github = 'rajuljha'
-linkedin = 'rajuljha'
-instagram = 'rjknightmare'
+github = 'g14ayushi'
+linkedin = 'ayushigupta9370'
+instagram = 'ayushi_gupta478'
 
-avatar = 'rajuljha49@gmail.com'
-name = 'Rajul Jha'
-bio = """Software Engineer, GSoC '24 and '25 @FOSSology"""
+avatar = 'ayushi.gupta.9370@gmail.com'
+name = 'Ayushi Gupta'
+bio = """Software Engineer, ZHCET AMU"""
 favicon = "favicon/2.png"
 # monoDarkIcon = true
 
 [params.giscus]
-repo = 'rajuljha/rajuljha.github.io'        # see https://giscus.app for more details
-repoId = 'MDEwOlJlcG9zaXRvcnkyMzUxNTE0MDU='
-category = 'Announcements'
-categoryId = 'DIC_kwDODgQgLc4Cghn3'
+repo = 'g14ayushi/g14ayushi.github.io'        # see https://giscus.app for more details
+repoId = 'R_kgDOM63Zvw='
+category = 'General'
+categoryId = 'DIC_kwDOM63Zv84CuxiT'
 mapping = 'pathname'
 theme = 'light'
 lang = 'en'
@@ -48,7 +47,7 @@ url = "/about/"
 weight = 10
 
 [[menu.main]]
-identifier = "contact"
+identifier = "posts"
 name = "Posts"
 url = "/posts/"
 weight = 20
