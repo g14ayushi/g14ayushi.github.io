@@ -20,6 +20,12 @@ LinkCliprr is a lightweight and scalable URL shortening service designed to tran
 
 ---
 
+## Application Flow
+Below is the flow diagram showing how LinkCliprr works end-to-end, from user request to short link generation and redirection.
+
+![Application Flow](/linkCliprr/flowDiagram.png)
+---
+
 ## Key Features  
 - Generate short, unique, and reliable links instantly  
 - Track the number of clicks for each shortened URL  

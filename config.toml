@@ -19,7 +19,7 @@ instagram = 'ayushi_gupta478'
 avatar = 'ayushi.gupta.9370@gmail.com'
 name = 'Ayushi Gupta'
 bio = """Software Engineer, ZHCET AMU"""
-favicon = "favicon/2.png"
+favicon = "favicon/logo.png"
 # monoDarkIcon = true
 
 [params.giscus]
