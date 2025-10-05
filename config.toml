@@ -10,7 +10,7 @@ ignoreErrors = ["error-remote-getjson"]
 
 
 [params]
-color = 'wheat'
+color = 'linen'
 
 github = 'g14ayushi'
 linkedin = 'ayushigupta9370'
@@ -46,11 +46,11 @@ name = "About"
 url = "/about/"
 weight = 10
 
-[[menu.main]]
-identifier = "posts"
-name = "Posts"
-url = "/posts/"
-weight = 20
+#[[menu.main]]
+#identifier = "posts"
+#name = "Posts"
+#url = "/posts/"
+#weight = 20
 
 [[menu.main]]
 identifier = "Project"
