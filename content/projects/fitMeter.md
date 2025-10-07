@@ -24,7 +24,9 @@ With every activity you perform, the app:
 - **Provides smart recommendations** → suggests what activity you should try next.  
 - **Keeps you safe** → gives guidance on precautions and safety measures to avoid injury or overtraining.
 
-The goal is simple: to turn raw fitness data into **actionable insights** that help you stay consistent, improve steadily, and build a healthier lifestyle.  
+The goal is simple: to turn raw fitness data into **actionable insights** that help you stay consistent, improve steadily, and build a healthier lifestyle.<br>
+Check out the full source code on <a href="https://github.com/g14ayushi/FitMeter" style="color:blue;">GitHub</a>
+
 
 ## <span style="color:gray;">Project Setup Guide</span>
 
