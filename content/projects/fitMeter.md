@@ -1,7 +1,7 @@
 +++
 author = "Ayushi Gupta"
 title = "Fit-Meter"
-date = "2025-06-20"
+date = "2025-09-20"
 description = "Fit-Meter"
 tags = [
     "Microservice",
